@@ -1,0 +1,9 @@
+*.pdf
+*.log
+*.blg
+*.bbl
+*.aux
+*.gz
+.idea
+outputs
+__pycache__
